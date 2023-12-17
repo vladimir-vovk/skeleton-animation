@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'universe',
+    'universe/native',
     'universe/shared/typescript-analysis',
     'plugin:react-hooks/recommended',
     'plugin:testing-library/react',
