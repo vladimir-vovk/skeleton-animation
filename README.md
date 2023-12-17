@@ -14,8 +14,6 @@ Enspired by the [tutorial](https://www.youtube.com/watch?v=vunwBbFx_F8) from Rea
 4. Run `yarn start` to start the Metro bundler.
 5. Press `i` to start the iOS simulator or `a` to run the Android emulator.📱
 
-Please use the `npx expo eject` command to switch to the "bare" react-native app. See the [docs](https://docs.expo.dev/introduction/managed-vs-bare/) to learn about the difference between managed and bare workflows.
-
 Happy hacking! 🤓
 
 ## Available commands
